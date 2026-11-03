@@ -1,1 +1,7 @@
+J1. Pieeja pirms koda
 
+1. Apskatīt faila formātu (kā izskatās laiks un kļūda). 2. Atfiltrēt tikai kļūdu rindas. 3. No katras rindas laika nolasīt stundu (00–23). 4. Saskaitīt kļūdas pa stundām un atrast lielāko.
+
+J2. Objekti, nevis teksts
+
+Ieguvums: Objekti saglabā skaitļus, tāpēc atmiņu var uzreiz skaitliski salīdzināt (>200 MB), bez vajadzības griezt tekstu (kā Bash).
