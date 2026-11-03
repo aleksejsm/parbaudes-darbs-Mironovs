@@ -4,4 +4,4 @@ J1. Pieeja pirms koda
 
 J2. Objekti, nevis teksts
 
-Ieguvums: Objekti saglabā skaitļus, tāpēc atmiņu var uzreiz skaitliski salīdzināt (>200 MB), bez vajadzības griezt tekstu (kā Bash).
+Ieguvums: Objekti saglabā skaitļus, tāpēc atmiņu var uzreiz skaitliski salīdzināt (>200 MB), bez vajadzības griezt tekstu (kā Bash). 
